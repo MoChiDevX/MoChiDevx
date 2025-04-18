@@ -3,7 +3,6 @@
 
 # Welcome!!!!!! 👋 I'm **MoCha_MoChi**
 
----
 - 🌱 ENFP soul with endless curiosity  
 - 🎓 CS @ **ECUST**, learning by building  
 - 👾 Currently lost in Steam worlds  
