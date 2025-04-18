@@ -1,6 +1,4 @@
 
----
-
 # Welcome!!!!!! 👋 I'm **MoCha_MoChi**
 
 - 🌱 ENFP soul with endless curiosity  
@@ -10,6 +8,3 @@
 - 🧠 Learning all about NLP & big brains (LLMs!)
 - 🔗 Totally hyped about **LangChain** and AI agents
 
----
-
-_“Keep learning, keep building.” — MoCha_MoChi 🐾_
