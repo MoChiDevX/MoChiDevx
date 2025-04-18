@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**MoChiDevX/MoChiDevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Welcome!!!!!! 👋 I'm **MoCha_MoChi**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+- 🌱 ENFP soul with endless curiosity  
+- 🎓 CS @ **ECUST**, learning by building  
+- 👾 Currently lost in Steam worlds  
+- 🧩 Speak in Python, C, HTML, and a bit of JSON  
+- 🧠 Learning all about NLP & big brains (LLMs!)
+- 🔗 Totally hyped about **LangChain** and AI agents
+
+---
+
+_“Keep learning, keep building.” — MoCha_MoChi 🐾_
